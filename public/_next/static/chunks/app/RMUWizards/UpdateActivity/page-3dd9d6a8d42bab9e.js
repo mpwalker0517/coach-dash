@@ -27,7 +27,7 @@
   
         // Define static text and initial state
         let p = [
-            "Perform a manual pull of RMU activity for a specific day",
+            "hello hello hello",
             "to mark RMU Course completion in Rent Manager.",
           ],
           x = {
