@@ -4,7 +4,6 @@
 var express = require('express');
 var router = express.Router();
 var cx = require('../integrations/cx/connect.js');
-var mysqldb = require('../integrations/sqldb/connect.js');
 var litmos = require('../integrations/litmos/connect.js');
 const logger = require('../logs/logsetup.js');
 var errors = require('../errors/dictionary.js');
