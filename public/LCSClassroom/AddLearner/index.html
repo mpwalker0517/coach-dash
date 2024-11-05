@@ -1,53 +1,241 @@
-import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-const EmployeesInTraining = () => {
-  const [employees, setEmployees] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+    <!-- Stylesheets -->
+    <link
+      rel="stylesheet"
+      href="/_next/static/css/fdbfe6a5e66cd05f.css"
+      crossorigin=""
+      data-precedence="next"
+    />
+    <link
+      rel="stylesheet"
+      href="/_next/static/css/487438e31a80d454.css"
+      crossorigin=""
+      data-precedence="next"
+    />
+    <link
+      rel="stylesheet"
+      href="/_next/static/css/77da69c3fc05e1fa.css"
+      crossorigin=""
+      data-precedence="next"
+    />
 
-  // Fetch data from the backend
-  useEffect(() => {
-    const fetchEmployees = async () => {
-      try {
-        const response = await axios.get('http://localhost:3000/api/employees-in-training'); // Ensure the port matches your backend
-        console.dir(response)
-        setEmployees(response.data.employees);
-      } catch (error) {
-        setError('Failed to fetch employees in training');
-      } finally {
-        setLoading(false);
-      }
-    };
+    <!-- Preload Script -->
+    <link
+      rel="preload"
+      as="script"
+      fetchPriority="low"
+      href="/_next/static/chunks/webpack-a79b55084825ca61.js"
+      crossorigin=""
+    />
 
-    fetchEmployees();
-  }, []);
+    <!-- JavaScript Files -->
+    <script
+      src="/_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js"
+      async
+      crossorigin
+    ></script>
+    <script
+      src="/_next/static/chunks/69-54c0e3f4bb17ec20.js"
+      async
+      crossorigin
+    ></script>
+    <script
+      src="/_next/static/chunks/main-app-a7b94c2bd73ec7a0.js"
+      async
+      crossorigin
+    ></script>
+    <script src="/_next/static/chunks/210-0046ae15cbf1cc18.js" async></script>
+    <script src="/_next/static/chunks/842-cf433e8dbdc66895.js" async></script>
+    <script
+      src="/_next/static/chunks/app/LCSClassroom/AddLearner/page-345f7d10f7cc520c.js"
+      async
+    ></script>
+    <script
+      src="/_next/static/chunks/678-3f90d081d5119afa.js"
+      async
+    ></script>
+    <script
+      src="/_next/static/chunks/app/layout-d76ce3c1451a1007.js"
+      async
+    ></script>
 
-  return (
-    <div className="employees-in-training">
-      <h2>Employees in Training</h2>
-      {loading && <p>Loading...</p>}
-      {error && <p>{error}</p>}
-      {!loading && !error && (
-        <table>
-          <thead>
-            <tr>
-              <th>Employee Name</th>
-              <th>Template</th>
-            </tr>
-          </thead>
-          <tbody>
-            {employees.map((employee, index) => (
-              <tr key={index}>
-                <td>{employee.Name}</td>
-                <td>General</td> {/* Assuming "General" is the template name for all */}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      )}
-    </div>
-  );
-};
+    <title>GANDALF</title>
+    <meta name="description" content="Wizards for Training And PDC" />
+    <link
+      rel="icon"
+      href="/favicon.ico"
+      type="image/x-icon"
+      sizes="16x16"
+    />
+    <script
+      src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"
+      crossorigin=""
+      noModule
+    ></script>
+  </head>
 
-export default EmployeesInTraining;
+  <body class="__className_aaf875">
+    <nav class="bg-body-dark bg-primary navbar navbar-expand-lg navbar-light">
+      <div class="container">
+        <a href="/" class="navbar-brand">GANDALF</a>
+        <button
+          class="navbar-toggler collapsed"
+          type="button"
+          aria-label="Toggle navigation"
+          aria-controls="basic-navbar-nav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="basic-navbar-nav">
+          <div class="me-auto navbar-nav">
+            <a href="/" class="nav-link" data-rr-ui-event-key="/">Home</a>
+            <div class="nav-item dropdown">
+              <a
+                href="#"
+                class="dropdown-toggle nav-link"
+                role="button"
+                tabindex="0"
+                id="basic-nav-dropdown"
+                aria-expanded="false"
+              >
+                RMU
+              </a>
+            </div>
+            <div class="nav-item dropdown">
+              <a
+                href="#"
+                class="dropdown-toggle nav-link"
+                role="button"
+                tabindex="0"
+                id="basic-nav-dropdown"
+                aria-expanded="false"
+              >
+                LCS Classroom
+              </a>
+            </div>
+            <div class="nav-item dropdown">
+              <a
+                href="#"
+                class="dropdown-toggle nav-link"
+                role="button"
+                tabindex="0"
+                id="basic-nav-dropdown"
+                aria-expanded="false"
+              >
+                Employees
+              </a>
+            </div>
+            <div class="nav-item dropdown">
+              <a
+                href="#"
+                class="dropdown-toggle nav-link"
+                role="button"
+                tabindex="0"
+                id="basic-nav-dropdown"
+                aria-expanded="false"
+              >
+                Reports
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main
+      class="page_main__nw1Wk"
+      style="background-image: url(/_next/static/media/Green.26974377.png)"
+    >
+      <form>
+        <div class="mb-1">
+          <label class="text-light form-label">
+            <h1 class="text-dark-emphasis">Assign Learners To Session</h1>
+          </label>
+        </div>
+        <div>
+          <p>Enroll a learner in a preexisting LCS Classroom session in Rent Manager.</p>
+        </div>
+        <div class="mb-3">
+          <div class="input-group mb-3">
+            <button
+              type="button"
+              id="button-addon1"
+              class="btn btn-secondary"
+            >
+              Load
+            </button>
+            <select
+              class="form-select"
+              aria-label="Select Session"
+              id="formSelect Session"
+            >
+              <option value="0" selected></option>
+            </select>
+          </div>
+        </div>
+        <div>
+          <label class="text-dark-emphasis badge form-label">Select Students</label>
+          <select
+            class="form-select form-select-md mb-3"
+            aria-label="Select Students"
+            multiple
+          ></select>
+        </div>
+        <div>
+          <table class="table table-secondary table-hover table-striped table-bordered">
+            <thead>
+              <tr></tr>
+            </thead>
+            <tbody>
+              <tr></tr>
+            </tbody>
+          </table>
+        </div>
+        <button type="button" class="btn btn-primary disabled mb-3">Submit</button>
+        <div class="card bg-success" hidden>
+          <div class="text-dark card-header"></div>
+          <div class="card-body">
+            <div class="text-dark card-title h5"></div>
+            <p class="text-dark card-text"></p>
+          </div>
+        </div>
+      </form>
+    </main>
+
+    <!-- Additional Scripts -->
+    <script
+      src="/_next/static/chunks/webpack-a79b55084825ca61.js"
+      crossorigin=""
+      async
+    ></script>
+    <script>
+      (self.__next_f = self.__next_f || []).push([0]);
+      self.__next_f.push([2, null]);
+      self.__next_f.push([
+        1,
+        '1:HL["/_next/static/css/fdbfe6a5e66cd05f.css","style",{"crossOrigin":""}]',
+      ]);
+      self.__next_f.push([
+        1,
+        '2:HL["/_next/static/css/487438e31a80d454.css","style",{"crossOrigin":""}]',
+      ]);
+    </script>
+    <script>
+      self.__next_f.push([
+        1,
+        '5:I[7690,[],""] 7:I[7831,[],""] 8:I[4310,["210","static/chunks/210-0046ae15cbf1cc18.js","842","static/chunks/842-cf433e8dbdc66895.js","460","static/chunks/app/LCSClassroom/AddLearner/page-345f7d10f7cc520c.js"],""] 9:I[5613,[],""] a:I[1778,[],""] b:I[3670,["678","static/chunks/678-3f90d081d5119afa.js","185","static/chunks/app/layout-d76ce3c1451a1007.js"],""] d:I[8955,[],""] e:[]',
+      ]);
+    </script>
+    <script>
+      self.__next_f.push([
+        1,
+        'c:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"GANDALF"}],["$","meta","3",{"name":"description","content":"Wizards for Training And PDC"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]] 6:null',
+      ]);
+    </script>
+  </body>
+</html>
