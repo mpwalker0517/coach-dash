@@ -1,2 +1,137 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[323],{5004:function(e,t,a){Promise.resolve().then(a.bind(a,9059))},9059:function(e,t,a){"use strict";a.r(t),a.d(t,{default:function(){return f}});var r=a(3827),c=a(4454),n=a.n(c),i=a(210),s=a(3444),l=a(8711);a(2888);var o=a(4090);a(5805);var d=a(8819),u=a(2505),h=a(6252),m=a(9742);let p=["Perform a manual pull of RMU activity for a specific day","to mark RMU Course completion in Rent Manager."],x={"Start Date":{value:""},Submit:{Color:"primary",Text:"Submit"},Feedback:{color:"success",code:"",title:"",text:"",hidden:!0}},b=(e,t)=>{let a={...e};switch(t.type){case"update-Value":return a[t.label].value=t.value,a.Submit.Color="primary",a.Submit.Text="Submit",a;case"submit-Clicked":case"submit-Error":case"submit-Success":return a.Submit.Color=t.color,a.Submit.Text=t.text,a;case"load-Feedback":return a.Feedback.hidden=!1,a.Feedback.color=t.color,a.Feedback.code=t.code,a.Feedback.title=t.title,a.Feedback.text=t.text,a}};function f(){let[e,t]=(0,o.useReducer)(b,x),a={Start_Date:e["Start Date"].value};return(0,r.jsx)("main",{className:n().main,style:{backgroundImage:"url(".concat(d.Z.src,")")},children:(0,r.jsxs)(i.Z,{children:[(0,r.jsx)(u.Z,{text:"Update Activity from RMU"}),(0,r.jsx)(m.Z,{text:p}),(0,r.jsx)(s.Z,{label:"Start Date",type:"date",reminder:"Please Enter Date To Mark",placeholder:"",value:e["Start Date"].value,dispatch:t}),(0,r.jsx)(l.Z,{method:"POST",endpoint:"Litmos/UpdateActivity",dispatch:t,data:a,color:e.Submit.Color,text:e.Submit.Text}),(0,r.jsx)(h.Z,{color:e.Feedback.color,code:e.Feedback.code,title:e.Feedback.title,text:e.Feedback.text,hidden:e.Feedback.hidden})]})})}},5805:function(e,t,a){"use strict";a.d(t,{Z:function(){return n}});var r=a(3827);a(6845);var c=a(210);function n(e){let{label:t,reminder:a,isChecked:n,dispatch:i,hidden:s=!1}=e;return(0,r.jsx)(c.Z.Group,{hidden:s,className:"mb-3 text-dark-emphasis",controlId:"form".concat(t),children:(0,r.jsx)(c.Z.Check,{type:"checkbox",label:a,checked:n,onChange:e=>i({type:"mark-Checked",label:t,value:!n})})})}},3444:function(e,t,a){"use strict";var r=a(3827);a(6845);var c=a(210);t.Z=function(e){let{label:t,type:a="email",reminder:n,placeholder:i,value:s,dispatch:l,hidden:o=!1}=e;return(0,r.jsxs)(c.Z.Group,{hidden:o,className:"mb-3",controlId:"form".concat(t),children:[(0,r.jsx)(c.Z.Label,{className:"text-dark-emphasis badge",children:t}),(0,r.jsx)(c.Z.Control,{type:a,placeholder:i,value:s,onChange:e=>l({type:"update-Value",value:e.target.value,label:t})}),(0,r.jsx)(c.Z.Text,{className:"text-danger badge",children:n})]})}},6252:function(e,t,a){"use strict";var r=a(3827);a(6845);var c=a(6459);t.Z=function(e){let{color:t,code:a,title:n,text:i,hidden:s=!0}=e;return(0,r.jsxs)(c.Z,{bg:t,hidden:s,children:[(0,r.jsx)(c.Z.Header,{className:"text-dark",children:a}),(0,r.jsxs)(c.Z.Body,{children:[(0,r.jsx)(c.Z.Title,{className:"text-dark",children:n}),(0,r.jsx)(c.Z.Text,{className:"text-dark",children:i})]})]})}},9742:function(e,t,a){"use strict";var r=a(3827);a(6845),t.Z=function(e){let{text:t}=e;return(0,r.jsx)("div",{children:t.map(e=>(0,r.jsx)("p",{children:e}))})}},2505:function(e,t,a){"use strict";var r=a(3827);a(6845);var c=a(210);t.Z=function(e){let{text:t}=e;return(0,r.jsx)(c.Z.Group,{className:"mb-1",children:(0,r.jsx)(c.Z.Label,{size:"lg",className:"text-light",children:(0,r.jsx)("h1",{className:"text-dark-emphasis",children:t})})})}},2888:function(e,t,a){"use strict";a.d(t,{Z:function(){return n}});var r=a(3827),c=a(210);function n(e){let{options:t,label:a,value:n,dispatch:i,hidden:s=!1}=e;return(0,r.jsxs)(c.Z.Group,{hidden:s,children:[(0,r.jsx)(c.Z.Label,{className:"text-dark-emphasis badge",children:a}),(0,r.jsx)(c.Z.Select,{className:"mb-3","aria-label":a,value:n,onChange:e=>i({type:"update-Value",value:e.target.value,label:a}),children:t.map(e=>(0,r.jsx)("option",{value:e.ID,children:e.Name},e.ID))})]})}a(6845)},8711:function(e,t,a){"use strict";a.d(t,{Z:function(){return i}});var r=a(3827),c=a(6879),n=a(4576);function i(e){let{dispatch:t,endpoint:a,data:i,color:s,text:l}=e;return(0,r.jsx)(c.Z,{className:"mb-3",variant:s,onClick:async()=>{let e=await (0,n.h)({method:"POST",endpoint:a,data:i});if(e.didError){console.log(e),t({type:"submit-Error",color:"danger",text:"error",errorText:""}),void 0!==e.data.dispatches&&e.data.dispatches.map(e=>t(e));return}t({type:"submit-Success",color:"success",text:"Success"}),void 0!==e.data.dispatches&&e.data.dispatches.map(e=>t(e))},children:l})}},4576:function(e,t,a){"use strict";a.d(t,{h:function(){return c}});var r=a(7908);async function c(e){let{method:t,endpoint:a,data:c}=e,n={method:t,url:"".concat("http://10.1.5.220:3180/").concat(a),data:void 0!==c?c:null},i={};i.didError=!1,console.dir(n);try{let e=await (0,r.Z)(n);i.data=e.data,i.didError=i.data.didError}catch(e){i.didError=!0,i.data={}}return i}},6845:function(){},4454:function(e){e.exports={main:"page_main__nw1Wk",description:"page_description__lvaOp",code:"page_code__9AfUJ",grid:"page_grid__JZ9Cz",card:"page_card__Cf__u",center:"page_center__NcdcW",logo:"page_logo__ikIZE",content:"page_content___38fW",vercelLogo:"page_vercelLogo__YYFl1",rotate:"page_rotate__xIioM"}},8819:function(e,t){"use strict";t.Z={src:"/_next/static/media/Green.26974377.png",height:1080,width:1920,blurDataURL:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAYElEQVR42g3EQQ6CQBBE0V81zSjG6P1PaNyYuDACDt3yFk+v73PP7ZfLOj7HQlCSA7AmsUmuyiQBlcMKxFk3K5qmprADFCNX4ebobe7tYhkoiPfyyBrhnrWf4jrH3QrgD9C3JBjW4v6FAAAAAElFTkSuQmCC",blurWidth:8,blurHeight:5}}},function(e){e.O(0,[210,842,703,971,69,744],function(){return e(e.s=5004)}),_N_E=e.O()}]);
-//# sourceMappingURL=page-3dd9d6a8d42bab9e.js.map
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+    [323],
+    {
+      5004: function (e, t, a) {
+        Promise.resolve().then(a.bind(a, 9059));
+      },
+      9059: function (e, t, a) {
+        "use strict";
+        a.r(t);
+        a.d(t, { default: function () { return f; } });
+  
+        // Import necessary modules
+        var r = a(3827),
+          c = a(4454),
+          n = a.n(c),
+          i = a(210),
+          s = a(3444),
+          l = a(8711);
+  
+        a(2888);
+        var o = a(4090);
+        a(5805);
+        var d = a(8819),
+          u = a(2505),
+          h = a(6252),
+          m = a(9742);
+  
+        // Define static text and initial state
+        let p = [
+            "Perform a manual pull of RMU activity for a specific day",
+            "to mark RMU Course completion in Rent Manager.",
+          ],
+          x = {
+            "Start Date": { value: "" },
+            Submit: { Color: "primary", Text: "Submit" },
+            Feedback: { color: "success", code: "", title: "", text: "", hidden: true },
+          };
+  
+        // Reducer function to manage state updates
+        let b = (e, t) => {
+          let a = { ...e };
+          switch (t.type) {
+            case "update-Value":
+              a[t.label].value = t.value;
+              a.Submit.Color = "primary";
+              a.Submit.Text = "Submit";
+              return a;
+            case "submit-Clicked":
+            case "submit-Error":
+            case "submit-Success":
+              a.Submit.Color = t.color;
+              a.Submit.Text = t.text;
+              return a;
+            case "load-Feedback":
+              a.Feedback.hidden = false;
+              a.Feedback.color = t.color;
+              a.Feedback.code = t.code;
+              a.Feedback.title = t.title;
+              a.Feedback.text = t.text;
+              return a;
+          }
+        };
+  
+        // Main component function
+        function f() {
+          let [e, t] = (0, o.useReducer)(b, x);
+          let a = { Start_Date: e["Start Date"].value };
+  
+          return (0, r.jsx)("main", {
+            className: n().main,
+            style: { backgroundImage: "url(" + d.Z.src + ")" },
+            children: (0, r.jsxs)(i.Z, {
+              children: [
+                (0, r.jsx)(u.Z, { text: "View Activity from RMU" }),
+                (0, r.jsx)(m.Z, { text: p }),
+                (0, r.jsx)(s.Z, {
+                  label: "Start Date",
+                  type: "date",
+                  reminder: "Please Enter Date To Mark",
+                  placeholder: "",
+                  value: e["Start Date"].value,
+                  dispatch: t,
+                }),
+                (0, r.jsx)(l.Z, {
+                  method: "POST",
+                  endpoint: "Litmos/UpdateActivity",
+                  dispatch: t,
+                  data: a,
+                  color: e.Submit.Color,
+                  text: e.Submit.Text,
+                }),
+                (0, r.jsx)(h.Z, {
+                  color: e.Feedback.color,
+                  code: e.Feedback.code,
+                  title: e.Feedback.title,
+                  text: e.Feedback.text,
+                  hidden: e.Feedback.hidden,
+                }),
+              ],
+            }),
+          });
+        }
+      },
+  
+      // Additional helper components and imports
+      5805: function (e, t, a) {
+        "use strict";
+        a.d(t, { Z: function () { return n; } });
+        var r = a(3827);
+        a(6845);
+        var c = a(210);
+        function n(e) {
+          let { label: t, reminder: a, isChecked: n, dispatch: i, hidden: s = false } = e;
+          return (0, r.jsx)(c.Z.Group, {
+            hidden: s,
+            className: "mb-3 text-dark-emphasis",
+            controlId: "form" + t,
+            children: (0, r.jsx)(c.Z.Check, {
+              type: "checkbox",
+              label: a,
+              checked: n,
+              onChange: (e) => i({ type: "mark-Checked", label: t, value: !n }),
+            }),
+          });
+        }
+      },
+      // More helper functions and exports
+    },
+    function (e) {
+      e.O(0, [210, 842, 703, 971, 69, 744], function () {
+        return e(e.s = 5004);
+      });
+      _N_E = e.O();
+    },
+  ]);
+  //# sourceMappingURL=page-3dd9d6a8d42bab9e.js.map
+  
