@@ -1,0 +1,19 @@
+#Configuration File for VCReg
+#Launch with systemctrl start vcreg.service
+
+[Unit]
+Description=PDC Dashboard Application Server
+
+[Service]
+ExecStart = node /root/code/PDCDash/bin/www
+
+WorkingDirectory = /root/code/PDCDash
+Restart=always
+RestartSec=5
+
+#Env vars are located here and in the external file. Both are available to the PDCDash app
+Environment=Node_ENV=production
+EnvironmentFile=/etc/pdcdash_service/pdcdash_vars.txt
+
+[Install]
+WantedBy=multi-user.target

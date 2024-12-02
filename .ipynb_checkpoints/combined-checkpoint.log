@@ -1,0 +1,295 @@
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /example/static 200 45 - 8.735 ms, process_id:0, timestamp: 2024-09-03T13:42:35.201Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /rent-manager-app 404 1649 - 591.752 ms, process_id:0, timestamp: 2024-09-03T13:56:46.144Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /stylesheets/style.css 404 1649 - 28.697 ms, process_id:0, timestamp: 2024-09-03T13:56:46.205Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 22.145 ms, process_id:0, timestamp: 2024-09-03T13:58:15.144Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 12.656 ms, process_id:0, timestamp: 2024-09-03T13:58:15.160Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 12.722 ms, process_id:0, timestamp: 2024-09-03T13:58:18.136Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 29.913 ms, process_id:0, timestamp: 2024-09-03T13:58:18.152Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 11.363 ms, process_id:0, timestamp: 2024-09-03T13:58:23.140Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 24.869 ms, process_id:0, timestamp: 2024-09-03T13:58:23.154Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 10.244 ms, process_id:0, timestamp: 2024-09-03T13:58:32.131Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 12.307 ms, process_id:0, timestamp: 2024-09-03T13:58:32.146Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 13.019 ms, process_id:0, timestamp: 2024-09-03T13:58:49.149Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 24.583 ms, process_id:0, timestamp: 2024-09-03T13:58:49.161Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 12.552 ms, process_id:0, timestamp: 2024-09-03T13:59:22.144Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 11.622 ms, process_id:0, timestamp: 2024-09-03T13:59:22.159Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 10.153 ms, process_id:0, timestamp: 2024-09-03T14:00:27.126Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 12.515 ms, process_id:0, timestamp: 2024-09-03T14:00:27.142Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 436.700 ms, process_id:0, timestamp: 2024-09-03T14:02:36.569Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 19.596 ms, process_id:0, timestamp: 2024-09-03T14:02:36.594Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 14.249 ms, process_id:0, timestamp: 2024-09-03T14:06:53.134Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /ws 404 1649 - 28.142 ms, process_id:0, timestamp: 2024-09-03T14:06:53.149Z}
+{app_name:'VCReg', level:debug, message:ad7966f8 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:14:33.846Z}
+{app_name:'VCReg', level:debug, message:f17ead70 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:14:43.007Z}
+{app_name:'VCReg', level:debug, message:66f19ff5 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:19:56.232Z}
+{app_name:'VCReg', level:debug, message:9e51bc24 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:22:25.604Z}
+{app_name:'VCReg', level:debug, message:ff9f16c8 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:22:28.922Z}
+{app_name:'VCReg', level:debug, message:085fe5cc | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:24:17.562Z}
+{app_name:'VCReg', level:debug, message:085fe5cc | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:24:21.188Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 994 - 7945.763 ms, process_id:0, timestamp: 2024-09-03T14:24:21.193Z}
+{app_name:'VCReg', level:debug, message:56e4b5f5 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:24:22.947Z}
+{app_name:'VCReg', level:debug, message:56e4b5f5 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:24:24.951Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 3758.591 ms, process_id:0, timestamp: 2024-09-03T14:24:24.956Z}
+{app_name:'VCReg', level:debug, message:e96d6a74 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:35:43.818Z}
+{app_name:'VCReg', level:debug, message:e96d6a74 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:35:59.021Z}
+{app_name:'VCReg', level:debug, message:406a730c | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:37:21.068Z}
+{app_name:'VCReg', level:debug, message:7e6a0a83 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:37:59.519Z}
+{app_name:'VCReg', level:debug, message:7e6a0a83 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:38:04.419Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920173 - 4984.594 ms, process_id:0, timestamp: 2024-09-03T14:38:04.503Z}
+{app_name:'VCReg', level:debug, message:92a08097 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:38:04.510Z}
+{app_name:'VCReg', level:debug, message:92a08097 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:38:09.220Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 4780.297 ms, process_id:0, timestamp: 2024-09-03T14:38:09.290Z}
+{app_name:'VCReg', level:debug, message:7679282f | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:39:02.533Z}
+{app_name:'VCReg', level:debug, message:7679282f | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:39:09.325Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920173 - 6853.773 ms, process_id:0, timestamp: 2024-09-03T14:39:09.386Z}
+{app_name:'VCReg', level:debug, message:793650c2 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:39:09.392Z}
+{app_name:'VCReg', level:debug, message:793650c2 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:39:11.380Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2057.274 ms, process_id:0, timestamp: 2024-09-03T14:39:11.448Z}
+{app_name:'VCReg', level:debug, message:0418528b | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:43:02.043Z}
+{app_name:'VCReg', level:debug, message:0418528b | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:43:04.447Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920173 - 2466.189 ms, process_id:0, timestamp: 2024-09-03T14:43:04.510Z}
+{app_name:'VCReg', level:debug, message:fc7c19d9 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:43:04.517Z}
+{app_name:'VCReg', level:debug, message:fc7c19d9 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:43:06.192Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1721.248 ms, process_id:0, timestamp: 2024-09-03T14:43:06.238Z}
+{app_name:'VCReg', level:debug, message:6b00c9b8 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:45:47.039Z}
+{app_name:'VCReg', level:debug, message:6b00c9b8 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:45:49.033Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920175 - 2050.020 ms, process_id:0, timestamp: 2024-09-03T14:45:49.089Z}
+{app_name:'VCReg', level:debug, message:7142af06 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:45:49.102Z}
+{app_name:'VCReg', level:debug, message:7142af06 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:45:51.525Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2505.671 ms, process_id:0, timestamp: 2024-09-03T14:45:51.600Z}
+{app_name:'VCReg', level:debug, message:0364d34b | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:52:09.764Z}
+{app_name:'VCReg', level:debug, message:0364d34b | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:52:11.565Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1849.755 ms, process_id:0, timestamp: 2024-09-03T14:52:11.613Z}
+{app_name:'VCReg', level:debug, message:e45896e1 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:52:11.618Z}
+{app_name:'VCReg', level:debug, message:e45896e1 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:52:13.206Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1642.152 ms, process_id:0, timestamp: 2024-09-03T14:52:13.260Z}
+{app_name:'VCReg', level:debug, message:d06c9b13 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:53:13.539Z}
+{app_name:'VCReg', level:debug, message:d06c9b13 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:53:16.492Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 3008.764 ms, process_id:0, timestamp: 2024-09-03T14:53:16.545Z}
+{app_name:'VCReg', level:debug, message:12f37cce | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:53:16.551Z}
+{app_name:'VCReg', level:debug, message:12f37cce | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:53:19.112Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2607.057 ms, process_id:0, timestamp: 2024-09-03T14:53:19.157Z}
+{app_name:'VCReg', level:debug, message:10a44a4b | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:55:06.102Z}
+{app_name:'VCReg', level:debug, message:10a44a4b | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:55:07.799Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920173 - 1759.867 ms, process_id:0, timestamp: 2024-09-03T14:55:07.865Z}
+{app_name:'VCReg', level:debug, message:c30ce865 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:55:07.872Z}
+{app_name:'VCReg', level:debug, message:c30ce865 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:55:09.471Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1666.340 ms, process_id:0, timestamp: 2024-09-03T14:55:09.538Z}
+{app_name:'VCReg', level:debug, message:07a00521 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:55:22.559Z}
+{app_name:'VCReg', level:debug, message:07a00521 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:55:24.764Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2279.465 ms, process_id:0, timestamp: 2024-09-03T14:55:24.838Z}
+{app_name:'VCReg', level:debug, message:233a82d9 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T14:55:24.842Z}
+{app_name:'VCReg', level:debug, message:233a82d9 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T14:55:27.128Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2353.068 ms, process_id:0, timestamp: 2024-09-03T14:55:27.195Z}
+{app_name:'VCReg', level:debug, message:c10936be | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T15:13:04.923Z}
+{app_name:'VCReg', level:debug, message:c10936be | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T15:13:06.613Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920173 - 1774.052 ms, process_id:0, timestamp: 2024-09-03T15:13:06.698Z}
+{app_name:'VCReg', level:debug, message:5dd04b0d | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T15:13:06.703Z}
+{app_name:'VCReg', level:debug, message:5dd04b0d | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T15:13:08.250Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1592.401 ms, process_id:0, timestamp: 2024-09-03T15:13:08.295Z}
+{app_name:'VCReg', level:debug, message:b5fcf559 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T18:30:51.243Z}
+{app_name:'VCReg', level:debug, message:b5fcf559 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T18:30:53.995Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920613 - 2820.362 ms, process_id:0, timestamp: 2024-09-03T18:30:54.063Z}
+{app_name:'VCReg', level:debug, message:c28b5510 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-03T18:30:54.074Z}
+{app_name:'VCReg', level:debug, message:c28b5510 | Request for Assets Complete, process_id:0, timestamp: 2024-09-03T18:30:55.919Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3920613 - 1942.830 ms, process_id:0, timestamp: 2024-09-03T18:30:56.019Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 200 6982 - 10.229 ms, process_id:0, timestamp: 2024-09-03T19:28:39.626Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 200 228576 - 2.640 ms, process_id:0, timestamp: 2024-09-03T19:28:39.648Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 6.798 ms, process_id:0, timestamp: 2024-09-03T19:28:39.657Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 200 4354 - 8.139 ms, process_id:0, timestamp: 2024-09-03T19:28:39.661Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 12.254 ms, process_id:0, timestamp: 2024-09-03T19:28:39.666Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 200 112093 - 11.888 ms, process_id:0, timestamp: 2024-09-03T19:28:39.671Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 200 514 - 20.936 ms, process_id:0, timestamp: 2024-09-03T19:28:39.677Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 200 172216 - 16.279 ms, process_id:0, timestamp: 2024-09-03T19:28:39.681Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 13.570 ms, process_id:0, timestamp: 2024-09-03T19:28:39.683Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 200 1751 - 12.437 ms, process_id:0, timestamp: 2024-09-03T19:28:39.686Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 200 95598 - 11.468 ms, process_id:0, timestamp: 2024-09-03T19:28:39.692Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 13.524 ms, process_id:0, timestamp: 2024-09-03T19:28:39.694Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 3.716 ms, process_id:0, timestamp: 2024-09-03T19:28:39.802Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 200 46552 - 2.418 ms, process_id:0, timestamp: 2024-09-03T19:28:39.819Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /favicon.ico 200 15406 - 4.927 ms, process_id:0, timestamp: 2024-09-03T19:28:39.898Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 304 - - 1.915 ms, process_id:0, timestamp: 2024-09-03T19:28:42.603Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 0.734 ms, process_id:0, timestamp: 2024-09-03T19:28:42.617Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 304 - - 2.087 ms, process_id:0, timestamp: 2024-09-03T19:28:42.621Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 304 - - 2.877 ms, process_id:0, timestamp: 2024-09-03T19:28:42.622Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 3.947 ms, process_id:0, timestamp: 2024-09-03T19:28:42.624Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 6.407 ms, process_id:0, timestamp: 2024-09-03T19:28:42.627Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 8.946 ms, process_id:0, timestamp: 2024-09-03T19:28:42.630Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 2.216 ms, process_id:0, timestamp: 2024-09-03T19:28:42.631Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 304 - - 2.287 ms, process_id:0, timestamp: 2024-09-03T19:28:42.635Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 304 - - 3.772 ms, process_id:0, timestamp: 2024-09-03T19:28:42.637Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 4.641 ms, process_id:0, timestamp: 2024-09-03T19:28:42.638Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 304 - - 6.401 ms, process_id:0, timestamp: 2024-09-03T19:28:42.641Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 304 - - 2.835 ms, process_id:0, timestamp: 2024-09-03T19:28:42.643Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 304 - - 0.705 ms, process_id:0, timestamp: 2024-09-03T19:28:57.684Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 0.611 ms, process_id:0, timestamp: 2024-09-03T19:28:57.698Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 304 - - 1.986 ms, process_id:0, timestamp: 2024-09-03T19:28:57.703Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 3.135 ms, process_id:0, timestamp: 2024-09-03T19:28:57.705Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 304 - - 2.718 ms, process_id:0, timestamp: 2024-09-03T19:28:57.709Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 3.021 ms, process_id:0, timestamp: 2024-09-03T19:28:57.710Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 4.093 ms, process_id:0, timestamp: 2024-09-03T19:28:57.712Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 7.410 ms, process_id:0, timestamp: 2024-09-03T19:28:57.716Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 304 - - 2.293 ms, process_id:0, timestamp: 2024-09-03T19:28:57.717Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 304 - - 4.311 ms, process_id:0, timestamp: 2024-09-03T19:28:57.720Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 2.226 ms, process_id:0, timestamp: 2024-09-03T19:28:57.721Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 304 - - 3.088 ms, process_id:0, timestamp: 2024-09-03T19:28:57.723Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 304 - - 0.613 ms, process_id:0, timestamp: 2024-09-03T19:28:57.725Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 304 - - 1.330 ms, process_id:0, timestamp: 2024-09-03T19:28:58.516Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 0.734 ms, process_id:0, timestamp: 2024-09-03T19:28:58.529Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 304 - - 2.791 ms, process_id:0, timestamp: 2024-09-03T19:28:58.534Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 304 - - 3.407 ms, process_id:0, timestamp: 2024-09-03T19:28:58.535Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 4.880 ms, process_id:0, timestamp: 2024-09-03T19:28:58.537Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 5.599 ms, process_id:0, timestamp: 2024-09-03T19:28:58.539Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 7.057 ms, process_id:0, timestamp: 2024-09-03T19:28:58.541Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 3.825 ms, process_id:0, timestamp: 2024-09-03T19:28:58.544Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 304 - - 3.205 ms, process_id:0, timestamp: 2024-09-03T19:28:58.546Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 304 - - 4.899 ms, process_id:0, timestamp: 2024-09-03T19:28:58.548Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 5.913 ms, process_id:0, timestamp: 2024-09-03T19:28:58.549Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 304 - - 7.580 ms, process_id:0, timestamp: 2024-09-03T19:28:58.551Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 304 - - 2.007 ms, process_id:0, timestamp: 2024-09-03T19:28:58.553Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /RMUWizards/Employees 301 207 - 6.385 ms, process_id:0, timestamp: 2024-09-03T19:29:05.952Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /RMUWizards/Employees/ 200 8627 - 4.867 ms, process_id:0, timestamp: 2024-09-03T19:29:05.963Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 0.827 ms, process_id:0, timestamp: 2024-09-03T19:29:05.987Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 304 - - 4.170 ms, process_id:0, timestamp: 2024-09-03T19:29:05.993Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 4.708 ms, process_id:0, timestamp: 2024-09-03T19:29:05.995Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 5.564 ms, process_id:0, timestamp: 2024-09-03T19:29:05.996Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 304 - - 5.778 ms, process_id:0, timestamp: 2024-09-03T19:29:05.997Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 1.110 ms, process_id:0, timestamp: 2024-09-03T19:29:06.000Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 2.178 ms, process_id:0, timestamp: 2024-09-03T19:29:06.002Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 304 - - 2.310 ms, process_id:0, timestamp: 2024-09-03T19:29:06.006Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 304 - - 3.092 ms, process_id:0, timestamp: 2024-09-03T19:29:06.007Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 1.519 ms, process_id:0, timestamp: 2024-09-03T19:29:06.011Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 304 - - 2.735 ms, process_id:0, timestamp: 2024-09-03T19:29:06.012Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/842-cf433e8dbdc66895.js 200 56427 - 9.699 ms, process_id:0, timestamp: 2024-09-03T19:29:06.015Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/RMUWizards/Employees/page-1fbc22c912360120.js 200 8258 - 11.782 ms, process_id:0, timestamp: 2024-09-03T19:29:06.017Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 200 6982 - 3.519 ms, process_id:0, timestamp: 2024-09-03T19:30:28.563Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 200 228576 - 1.589 ms, process_id:0, timestamp: 2024-09-03T19:30:28.607Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 3.196 ms, process_id:0, timestamp: 2024-09-03T19:30:28.615Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 4.413 ms, process_id:0, timestamp: 2024-09-03T19:30:28.617Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 200 4354 - 2.667 ms, process_id:0, timestamp: 2024-09-03T19:30:28.631Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 200 172216 - 3.257 ms, process_id:0, timestamp: 2024-09-03T19:30:28.635Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 200 1751 - 6.919 ms, process_id:0, timestamp: 2024-09-03T19:30:28.647Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 8.674 ms, process_id:0, timestamp: 2024-09-03T19:30:28.649Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 200 514 - 10.660 ms, process_id:0, timestamp: 2024-09-03T19:30:28.652Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 11.994 ms, process_id:0, timestamp: 2024-09-03T19:30:28.655Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 200 95598 - 7.025 ms, process_id:0, timestamp: 2024-09-03T19:30:28.658Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 200 112093 - 12.663 ms, process_id:0, timestamp: 2024-09-03T19:30:28.661Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 1.508 ms, process_id:0, timestamp: 2024-09-03T19:30:28.706Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 200 46552 - 1.425 ms, process_id:0, timestamp: 2024-09-03T19:30:28.722Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /employees-in-training 404 1649 - 611.578 ms, process_id:0, timestamp: 2024-09-04T12:22:53.128Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /stylesheets/style.css 404 1649 - 22.699 ms, process_id:0, timestamp: 2024-09-04T12:22:53.179Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /favicon.ico 200 15406 - 344.292 ms, process_id:0, timestamp: 2024-09-04T12:22:53.664Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 200 6982 - 2.712 ms, process_id:0, timestamp: 2024-09-04T12:23:15.578Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 200 228576 - 3.857 ms, process_id:0, timestamp: 2024-09-04T12:23:15.623Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 7.320 ms, process_id:0, timestamp: 2024-09-04T12:23:15.626Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 10.697 ms, process_id:0, timestamp: 2024-09-04T12:23:15.633Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 200 4354 - 11.440 ms, process_id:0, timestamp: 2024-09-04T12:23:15.643Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 200 514 - 11.508 ms, process_id:0, timestamp: 2024-09-04T12:23:15.651Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 11.798 ms, process_id:0, timestamp: 2024-09-04T12:23:15.654Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 200 1751 - 15.003 ms, process_id:0, timestamp: 2024-09-04T12:23:15.657Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 200 112093 - 11.093 ms, process_id:0, timestamp: 2024-09-04T12:23:15.663Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 200 172216 - 11.074 ms, process_id:0, timestamp: 2024-09-04T12:23:15.667Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 200 95598 - 22.857 ms, process_id:0, timestamp: 2024-09-04T12:23:15.673Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 6.663 ms, process_id:0, timestamp: 2024-09-04T12:23:15.676Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 2.419 ms, process_id:0, timestamp: 2024-09-04T12:23:15.769Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 200 46552 - 3.504 ms, process_id:0, timestamp: 2024-09-04T12:23:15.800Z}
+{app_name:'VCReg', level:debug, message:2a2d0cfd | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-04T12:24:04.380Z}
+{app_name:'VCReg', level:debug, message:2a2d0cfd | Request for Assets Complete, process_id:0, timestamp: 2024-09-04T12:24:06.026Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3887483 - 1705.683 ms, process_id:0, timestamp: 2024-09-04T12:24:06.088Z}
+{app_name:'VCReg', level:debug, message:21339784 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-04T12:24:06.094Z}
+{app_name:'VCReg', level:debug, message:21339784 | Request for Assets Complete, process_id:0, timestamp: 2024-09-04T12:24:07.626Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1599.242 ms, process_id:0, timestamp: 2024-09-04T12:24:07.693Z}
+{app_name:'VCReg', level:debug, message:b44b1c63 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-06T19:42:25.856Z}
+{app_name:'VCReg', level:debug, message:b44b1c63 | Request for Assets Complete, process_id:0, timestamp: 2024-09-06T19:42:27.508Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 3908777 - 1712.778 ms, process_id:0, timestamp: 2024-09-06T19:42:27.558Z}
+{app_name:'VCReg', level:debug, message:fa7db301 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-06T19:42:27.564Z}
+{app_name:'VCReg', level:debug, message:fa7db301 | Request for Assets Complete, process_id:0, timestamp: 2024-09-06T19:42:29.172Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 1653.222 ms, process_id:0, timestamp: 2024-09-06T19:42:29.216Z}
+{app_name:'VCReg', level:debug, message:82a8b8ec | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-06T19:55:10.748Z}
+{app_name:'VCReg', level:debug, message:82a8b8ec | Request for Assets Complete, process_id:0, timestamp: 2024-09-06T19:55:13.052Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2359.460 ms, process_id:0, timestamp: 2024-09-06T19:55:13.108Z}
+{app_name:'VCReg', level:debug, message:dbb4b6a3 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-09-06T19:55:13.116Z}
+{app_name:'VCReg', level:debug, message:dbb4b6a3 | Request for Assets Complete, process_id:0, timestamp: 2024-09-06T19:55:15.198Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2132.410 ms, process_id:0, timestamp: 2024-09-06T19:55:15.248Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /LCSClassroom/AddLearner 301 213 - 10.367 ms, process_id:0, timestamp: 2024-09-10T13:20:52.946Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /LCSClassroom/AddLearner/ 200 9466 - 12.974 ms, process_id:0, timestamp: 2024-09-10T13:20:52.968Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 200 228576 - 12.776 ms, process_id:0, timestamp: 2024-09-10T13:20:53.070Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 34.674 ms, process_id:0, timestamp: 2024-09-10T13:20:53.077Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 38.232 ms, process_id:0, timestamp: 2024-09-10T13:20:53.081Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 200 4354 - 40.734 ms, process_id:0, timestamp: 2024-09-10T13:20:53.084Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 200 112093 - 39.934 ms, process_id:0, timestamp: 2024-09-10T13:20:53.101Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 200 172216 - 40.125 ms, process_id:0, timestamp: 2024-09-10T13:20:53.109Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 200 514 - 79.838 ms, process_id:0, timestamp: 2024-09-10T13:20:53.168Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 81.093 ms, process_id:0, timestamp: 2024-09-10T13:20:53.171Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/842-cf433e8dbdc66895.js 200 56427 - 84.245 ms, process_id:0, timestamp: 2024-09-10T13:20:53.177Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/LCSClassroom/AddLearner/page-345f7d10f7cc520c.js 200 10467 - 89.811 ms, process_id:0, timestamp: 2024-09-10T13:20:53.189Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 20.642 ms, process_id:0, timestamp: 2024-09-10T13:20:53.205Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 200 95598 - 28.650 ms, process_id:0, timestamp: 2024-09-10T13:20:53.209Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 10.315 ms, process_id:0, timestamp: 2024-09-10T13:20:53.213Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 200 46552 - 5.694 ms, process_id:0, timestamp: 2024-09-10T13:20:53.233Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /Employees/CreateEmployee 301 215 - 2.378 ms, process_id:0, timestamp: 2024-09-10T13:20:58.387Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /Employees/CreateEmployee/ 200 9901 - 2.377 ms, process_id:0, timestamp: 2024-09-10T13:20:58.418Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 1.102 ms, process_id:0, timestamp: 2024-09-10T13:20:58.452Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 304 - - 3.735 ms, process_id:0, timestamp: 2024-09-10T13:20:58.461Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 304 - - 13.423 ms, process_id:0, timestamp: 2024-09-10T13:20:58.475Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 24.343 ms, process_id:0, timestamp: 2024-09-10T13:20:58.495Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 304 - - 20.949 ms, process_id:0, timestamp: 2024-09-10T13:20:58.502Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 25.698 ms, process_id:0, timestamp: 2024-09-10T13:20:58.509Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 25.300 ms, process_id:0, timestamp: 2024-09-10T13:20:58.516Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 26.091 ms, process_id:0, timestamp: 2024-09-10T13:20:58.518Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 304 - - 3.682 ms, process_id:0, timestamp: 2024-09-10T13:20:58.525Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/842-cf433e8dbdc66895.js 304 - - 5.216 ms, process_id:0, timestamp: 2024-09-10T13:20:58.530Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 5.023 ms, process_id:0, timestamp: 2024-09-10T13:20:58.543Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 304 - - 5.541 ms, process_id:0, timestamp: 2024-09-10T13:20:58.546Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/Employees/CreateEmployee/page-81dff1da6e26d810.js 200 7000 - 14.268 ms, process_id:0, timestamp: 2024-09-10T13:20:58.550Z}
+{app_name:'VCReg', level:debug, message:3cffeb73 | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-11-04T19:57:42.135Z}
+{app_name:'VCReg', level:debug, message:3cffeb73 | Request for Assets Complete, process_id:0, timestamp: 2024-11-04T19:57:44.450Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 200 4473621 - 2384.100 ms, process_id:0, timestamp: 2024-11-04T19:57:44.519Z}
+{app_name:'VCReg', level:debug, message:b004cfee | Request to Retrieve Assets Hit, process_id:0, timestamp: 2024-11-04T19:57:44.524Z}
+{app_name:'VCReg', level:debug, message:b004cfee | Request for Assets Complete, process_id:0, timestamp: 2024-11-04T19:57:46.680Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /api/employees-in-training 304 - - 2212.554 ms, process_id:0, timestamp: 2024-11-04T19:57:46.736Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 200 6982 - 8.106 ms, process_id:0, timestamp: 2024-11-04T20:12:37.795Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 4.676 ms, process_id:0, timestamp: 2024-11-04T20:12:37.818Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 200 228576 - 5.589 ms, process_id:0, timestamp: 2024-11-04T20:12:37.825Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 10.872 ms, process_id:0, timestamp: 2024-11-04T20:12:37.834Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 200 4354 - 13.140 ms, process_id:0, timestamp: 2024-11-04T20:12:37.837Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 200 514 - 15.963 ms, process_id:0, timestamp: 2024-11-04T20:12:37.841Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 200 112093 - 21.130 ms, process_id:0, timestamp: 2024-11-04T20:12:37.851Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 23.024 ms, process_id:0, timestamp: 2024-11-04T20:12:37.855Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 200 172216 - 20.792 ms, process_id:0, timestamp: 2024-11-04T20:12:37.860Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 200 1751 - 15.457 ms, process_id:0, timestamp: 2024-11-04T20:12:37.863Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 200 95598 - 17.157 ms, process_id:0, timestamp: 2024-11-04T20:12:37.867Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 15.819 ms, process_id:0, timestamp: 2024-11-04T20:12:37.870Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 3.748 ms, process_id:0, timestamp: 2024-11-04T20:12:37.933Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 200 46552 - 1.949 ms, process_id:0, timestamp: 2024-11-04T20:12:37.957Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /favicon.ico 200 15406 - 2.417 ms, process_id:0, timestamp: 2024-11-04T20:12:38.056Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 200 6982 - 8.725 ms, process_id:0, timestamp: 2024-11-19T15:43:22.295Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 3.445 ms, process_id:0, timestamp: 2024-11-19T15:43:22.307Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 5.814 ms, process_id:0, timestamp: 2024-11-19T15:43:22.311Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 7.049 ms, process_id:0, timestamp: 2024-11-19T15:43:22.313Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 1.029 ms, process_id:0, timestamp: 2024-11-19T15:43:22.332Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 3.603 ms, process_id:0, timestamp: 2024-11-19T15:43:22.344Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 5.173 ms, process_id:0, timestamp: 2024-11-19T15:43:22.347Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 7.679 ms, process_id:0, timestamp: 2024-11-19T15:43:22.351Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 304 - - 1.769 ms, process_id:0, timestamp: 2024-11-19T15:43:22.380Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 7.318 ms, process_id:0, timestamp: 2024-11-19T15:43:22.384Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 304 - - 2.488 ms, process_id:0, timestamp: 2024-11-19T15:43:22.572Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 4.981 ms, process_id:0, timestamp: 2024-11-19T15:43:22.575Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 8.372 ms, process_id:0, timestamp: 2024-11-19T15:43:22.579Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 2.299 ms, process_id:0, timestamp: 2024-11-19T15:43:22.651Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /favicon.ico 200 15406 - 2.220 ms, process_id:0, timestamp: 2024-11-19T15:43:23.461Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET / 200 6982 - 11.910 ms, process_id:0, timestamp: 2024-11-19T15:51:07.381Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/fdbfe6a5e66cd05f.css 304 - - 4.324 ms, process_id:0, timestamp: 2024-11-19T15:51:07.401Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/487438e31a80d454.css 200 2148 - 14.086 ms, process_id:0, timestamp: 2024-11-19T15:51:07.413Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/webpack-a79b55084825ca61.js 304 - - 6.765 ms, process_id:0, timestamp: 2024-11-19T15:51:07.416Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/fd9d1056-5e7ae3b4a37004d0.js 304 - - 7.944 ms, process_id:0, timestamp: 2024-11-19T15:51:07.418Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/69-54c0e3f4bb17ec20.js 304 - - 9.702 ms, process_id:0, timestamp: 2024-11-19T15:51:07.421Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/main-app-a7b94c2bd73ec7a0.js 304 - - 11.280 ms, process_id:0, timestamp: 2024-11-19T15:51:07.423Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/css/77da69c3fc05e1fa.css 200 3466 - 22.576 ms, process_id:0, timestamp: 2024-11-19T15:51:07.427Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/page-71dd9e4fac7c5547.js 304 - - 3.556 ms, process_id:0, timestamp: 2024-11-19T15:51:07.441Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/678-3f90d081d5119afa.js 304 - - 5.558 ms, process_id:0, timestamp: 2024-11-19T15:51:07.444Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/210-0046ae15cbf1cc18.js 200 8066 - 16.064 ms, process_id:0, timestamp: 2024-11-19T15:51:07.450Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/chunks/app/layout-d76ce3c1451a1007.js 200 2369 - 14.778 ms, process_id:0, timestamp: 2024-11-19T15:51:07.454Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/c9a5bc6a7c948fb0-s.p.woff2 304 - - 0.897 ms, process_id:0, timestamp: 2024-11-19T15:51:07.464Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /_next/static/media/Green.26974377.png 200 60499 - 17.120 ms, process_id:0, timestamp: 2024-11-19T15:51:07.468Z}
+{app_name:'VCReg', level:debug, message:Morgan Stream | GET /favicon.ico 200 15406 - 2.579 ms, process_id:0, timestamp: 2024-11-19T15:51:07.591Z}
